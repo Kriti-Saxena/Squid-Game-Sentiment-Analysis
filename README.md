@@ -28,7 +28,7 @@ stemmer = nltk.SnowballStemmer("english")
 import textblob 
 from textblob import TextBlob
 ```
-This has textblob too, but i eneded up using just vqader 
+This has textblob too, but i eneded up using just vader 
 
 # Read and explore data 
 ```
